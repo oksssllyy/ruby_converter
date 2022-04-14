@@ -1,4 +1,4 @@
-# ruby_converter
+# ruby converter
 
 ![Unit Tests & Lint](https://github.com/oksssllyy/ruby_converter/workflows/Unit%20Tests%20&%20Lint/badge.svg)
 
